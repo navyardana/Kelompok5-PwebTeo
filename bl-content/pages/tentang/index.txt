@@ -1,0 +1,13 @@
+<h1></h1>
+<h4 style="text-align: center;"><span style="color: #ba372a;">S1 TEKNIK BIOMEDIS - UNIVERSITAS AIRLANGGA</span></h4>
+<p style="text-align: center;">Selamat datang di Program Studi S1 Teknik Biomedis, tempat di mana inovasi teknologi bertemu dengan ilmu kedokteran untuk menciptakan solusi kesehatan masa depan. Program kami dirancang untuk menghasilkan lulusan yang memiliki keahlian interdisipliner, menggabungkan pengetahuan teknik dengan pemahaman mendalam tentang biologi dan kedokteran.</p>
+<p style="text-align: center;"></p>
+<h3 style="text-align: center;"><strong><span style="color: #ba372a;">Visi</span></strong></h3>
+<p>Menjadi program studi terkemuka yang menghasilkan insinyur biomedis berintegritas tinggi, kreatif, dan kompeten dalam mengembangkan teknologi kesehatan yang inovatif dan bermanfaat bagi masyarakat.</p>
+<h3 style="text-align: center;"><strong><span style="color: #ba372a;">Misi</span></strong></h3>
+<ol>
+<li><strong>Pendidikan Berkualitas</strong>: Menyediakan pendidikan berkualitas tinggi yang mengintegrasikan teori dan praktek, serta mendorong pembelajaran seumur hidup.</li>
+<li><strong>Penelitian Inovatif</strong>: Melakukan penelitian yang inovatif dan relevan di bidang teknik biomedis untuk memecahkan masalah kesehatan masyarakat.</li>
+<li><strong>Pengabdian Masyarakat</strong>: Menerapkan ilmu dan teknologi untuk meningkatkan kualitas hidup masyarakat melalui layanan dan pengabdian masyarakat.</li>
+<li><strong>Kolaborasi</strong>: Membangun kerjasama dengan institusi pendidikan, industri, dan lembaga penelitian baik di dalam maupun luar negeri untuk memperkuat jaringan dan memperkaya pengalaman belajar mahasiswa.</li>
+</ol>

@@ -1,0 +1,28 @@
+<h1></h1>
+<p><span style="color: #ba372a;"><img src="http://localhost/bludit/bl-content/uploads/pages/cc917c2c37a79fb8a51ffdf8cdbb5bd4/images.jpg" alt="" width="300"></span></p>
+<p><span style="color: #ba372a;"></span></p>
+<h1><span style="color: #ba372a;">Himpunan Mahasiswa Teknik Biomedis (HMTB) Universitas Airlangga</span></h1>
+<p>Himpunan Mahasiswa Teknik Biomedis (HMTB) Universitas Airlangga merupakan organisasi kemahasiswaan yang berada di bawah naungan Program Studi Teknik Biomedis. HMTB didirikan dengan tujuan untuk mendukung pengembangan akademis, profesional, dan sosial mahasiswa Teknik Biomedis. Melalui berbagai kegiatan, HMTB berperan penting dalam membentuk lingkungan yang kondusif bagi mahasiswa untuk belajar, berkreasi, dan berkontribusi kepada masyarakat.</p>
+<h4>Visi</h4>
+<p>Menjadi wadah yang inspiratif dan inovatif bagi mahasiswa Teknik Biomedis Universitas Airlangga dalam mengembangkan potensi diri dan berkontribusi dalam bidang teknologi kesehatan.</p>
+<h4>Misi</h4>
+<ol>
+<li><strong>Pengembangan Akademis</strong>: Menyelenggarakan berbagai program dan kegiatan yang mendukung peningkatan kualitas akademis mahasiswa, seperti seminar, workshop, dan bimbingan belajar.</li>
+<li><strong>Pengembangan Profesional</strong>: Memfasilitasi mahasiswa untuk mendapatkan pengalaman profesional melalui kegiatan seperti kunjungan industri, magang, dan pelatihan keterampilan.</li>
+<li><strong>Pengembangan Sosial</strong>: Membangun solidaritas dan kebersamaan antar mahasiswa melalui kegiatan sosial, pengabdian masyarakat, dan acara keakraban.</li>
+<li><strong>Inovasi dan Kreativitas</strong>: Mendorong mahasiswa untuk berinovasi dan berkreasi melalui kompetisi, proyek penelitian, dan pameran karya.</li>
+</ol>
+<h4>Kegiatan Utama</h4>
+<ol>
+<li><strong>Seminar dan Workshop</strong>: Mengadakan seminar dan workshop dengan tema-tema terkini di bidang teknik biomedis untuk memperluas wawasan mahasiswa.</li>
+<li><strong>Kunjungan Industri</strong>: Menyelenggarakan kunjungan ke perusahaan atau industri yang bergerak di bidang teknologi kesehatan untuk memberikan gambaran dunia kerja kepada mahasiswa.</li>
+<li><strong>Pengabdian Masyarakat</strong>: Mengimplementasikan ilmu yang diperoleh di bangku kuliah dalam bentuk kegiatan pengabdian kepada masyarakat.</li>
+<li><strong>Kompetisi dan Lomba</strong>: Mengadakan dan mengikuti berbagai kompetisi dan lomba baik di tingkat nasional maupun internasional untuk mengasah kemampuan mahasiswa.</li>
+<li><strong>Acara Keakraban</strong>: Mengadakan acara-acara kebersamaan seperti malam keakraban, olahraga bersama, dan kegiatan lain yang mempererat hubungan antar mahasiswa.</li>
+</ol>
+<h4>Struktur Organisasi</h4>
+<p>HMTB dipimpin oleh seorang ketua yang dibantu oleh beberapa divisi yang masing-masing memiliki fokus berbeda, seperti divisi akademik, divisi profesional, divisi sosial, dan divisi kreatif. Setiap divisi diisi oleh mahasiswa yang berdedikasi untuk menjalankan program kerja dan mencapai tujuan bersama.</p>
+<h4>Partisipasi dan Keanggotaan</h4>
+<p>Keanggotaan HMTB terbuka untuk seluruh mahasiswa Program Studi Teknik Biomedis Universitas Airlangga. Anggota diharapkan aktif berpartisipasi dalam berbagai kegiatan yang diselenggarakan oleh HMTB serta berkontribusi untuk kemajuan organisasi dan program studi.</p>
+<p><span></span></p>
+<p>Himpunan Mahasiswa Teknik Biomedis Universitas Airlangga berkomitmen untuk menjadi mitra yang handal bagi mahasiswa dalam mengejar prestasi dan berkarya di bidang teknik biomedis. Bersama HMTB, mari kita ciptakan masa depan yang lebih baik melalui inovasi dan teknologi kesehatan.</p>

@@ -1,0 +1,11 @@
+<h3 style="text-align: center;"></h3>
+<p>Kurikulum kami dirancang untuk memberikan landasan yang kuat dalam matematika, fisika, kimia, dan biologi, serta aplikasi praktis dalam teknik biomedis. Mahasiswa akan mempelajari mata kuliah seperti:</p>
+<ul>
+<li><strong>Dasar-dasar Teknik Biomedis</strong></li>
+<li><strong>Biomaterial</strong></li>
+<li><strong>Instrumentasi Medis</strong></li>
+<li><strong>Pengolahan Sinyal Biomedis</strong></li>
+<li><strong>Biomekanika</strong></li>
+<li><strong>Rekayasa Jaringan</strong></li>
+</ul>
+<p>Selain itu, program ini juga menawarkan kesempatan bagi mahasiswa untuk terlibat dalam proyek penelitian, magang industri, dan kolaborasi antar disiplin ilmu.</p>

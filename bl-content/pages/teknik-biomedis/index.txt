@@ -1,0 +1,17 @@
+<h1 style="text-align: center;"></h1>
+<p><span style="color: #ba372a;"><strong><img src="http://localhost/bludit/bl-content/uploads/pages/2c7c1cf2aa48b3400cc7abb003400be4/IMG_6692.jpg" alt=""></strong></span></p>
+<p>Selamat datang di Program Studi S1 Teknik Biomedis, tempat di mana inovasi teknologi bertemu dengan ilmu kedokteran untuk menciptakan solusi kesehatan masa depan. Program kami dirancang untuk menghasilkan lulusan yang memiliki keahlian interdisipliner, menggabungkan pengetahuan teknik dengan pemahaman mendalam tentang biologi dan kedokteran.</p>
+<h4><strong><span style="color: #ba372a;">Fasilitas</span></strong></h4>
+<p>Kami memiliki fasilitas laboratorium canggih yang dilengkapi dengan peralatan modern untuk mendukung kegiatan belajar mengajar dan penelitian. Mahasiswa juga memiliki akses ke pusat penelitian dan rumah sakit mitra untuk mendapatkan pengalaman praktis yang berharga.</p>
+<h4><strong><span style="color: #ba372a;">Karir</span></strong></h4>
+<p>Lulusan Teknik Biomedis memiliki prospek karir yang luas di berbagai bidang, seperti:</p>
+<ul>
+<li>Industri alat kesehatan</li>
+<li>Rumah sakit dan klinik</li>
+<li>Lembaga penelitian</li>
+<li>Perusahaan farmasi</li>
+<li>Konsultasi teknis dan rekayasa</li>
+</ul>
+<p><span style="color: #e03e2d;"></span></p>
+<p>Kami berkomitmen untuk mendukung pengembangan karir mahasiswa melalui bimbingan karir, seminar, dan jaringan profesional.</p>
+<p><span style="color: #e03e2d;"><strong></strong></span></p>
